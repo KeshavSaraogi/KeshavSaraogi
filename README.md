@@ -9,7 +9,7 @@ I am into Chess and AI tools to increase my workflow and productivity.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📱 Let's Connect</h3>
 <p align="left">
   <a href="https://dev.to/keshavsaraogi" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to - keshavsaraogi" /></a>&ensp;
   <a href="https://twitter.com/_keshavsaraogi" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter - @_keshavsaraogi" /></a>&ensp;
@@ -21,7 +21,7 @@ I am into Chess and AI tools to increase my workflow and productivity.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &ensp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> &ensp;
@@ -38,5 +38,6 @@ I am into Chess and AI tools to increase my workflow and productivity.
 </p>
 
 ---
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=keshavsaraogi&show_icons=true&locale=en" alt="keshavsaraogi" /></p>
+<h3 align="left">📊 Stats</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavsaraogi&show_icons=true&locale=en" alt="keshavsaraogi" /></p>
